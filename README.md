@@ -24,8 +24,10 @@
 
 ## 3. 项目列表
 
-
 ### 2026 年 7 月 6 号添加
+
+#### xianyu110 - [Github](https://github.com/xianyu110)
+* :white_check_mark: [GPTGeminiGrok.AI](https://trygrokai.asia/list/#/home)：Grok / SuperGrok 为主的 AI 模型服务入口，同时提供 GPTPlus、GeminiPro、ClaudeProMax 账号及 API 中转
 
 #### Felix - [Github](https://github.com/greek-zzf)
 * :white_check_mark: [Passport Size Photo](https://passportsizephoto.net)：在线证件照制作工具，上传照片后选择国家/证件预设，预览尺寸、背景和人脸裁剪，下载数字文件或 4x6 打印排版
