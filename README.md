@@ -24,6 +24,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 14 号添加
+
+#### gtn1024 - [Github](https://github.com/gtn1024)
+* :white_check_mark: [ieltssh](https://ieltssh.com/)：基于 AI 的雅思口语素材库，定制个人专属素材
+
+#### pasca520
+* :white_check_mark: [MarkIt](https://chromewebstore.google.com/detail/markit-%E7%BD%91%E9%A1%B5%E6%A0%87%E6%B3%A8%E4%B8%8E%E5%8F%8D%E9%A6%88%EF%BC%8C%E8%AE%A9-ai-%E5%B0%91%E7%8C%9C%E4%B8%80%E7%82%B9/dndiinkkhpmdipaffabjkaagoogjlome)：在网页上圈选元素、截图并写需求，生成含页面位置、元素信息和验收标准的结构化反馈
+
 ### 2026 年 7 月 13 号添加
 
 #### capybara-zy - [Github](https://github.com/capybara-zy)
