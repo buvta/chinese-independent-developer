@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 16 号添加
 
+#### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
+* :white_check_mark: [AI 小说作家 / AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer)：AI 写小说和网文的写作工具，支持 NSFW 本地模型生成成人文学；支持大纲、角色、章节蓝图、审稿修稿和知识库的中文小说创作桌面工作台。内置完整系统提示词，避免中长篇小说角色/内容遗忘、主题漂移；GitHub 主页内还有其他项目。
+
 #### liliBestCoder - [Github](https://github.com/liliBestCoder)
 * :white_check_mark: [ghost-proxifier-pro](https://ghostproxifier.com)：专为 Windows 打造的免费进程级透明代理引擎，拖拽进程快捷方式即可完成注入，支持进程树自动递归注入 - [查看仓库](https://github.com/liliBestCoder/ghost-proxifier-pro)
 
