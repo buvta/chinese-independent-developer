@@ -56,7 +56,7 @@
 
 #### zeplios(北京) - [Github](https://github.com/zeplios)
 * :white_check_mark: [历史图轴](https://www.congta.com/maptime)：历史时间轴与地图的结合，把通史/断代史/历史人物、时间、地图联动起来，有网页版和微信小程序
-* :white_check_mark: [历史人物传记](https://www.congta.com/biog)：基于中国历史人物传记数据库（CBDB）构建的可视化网站，包括历史人物信息、人际关系图、世系图、五朝任职图
+* :white_check_mark: [历史人物传记](https://www.congta.com/biog)：可视化网站，基于中国历史人物传记数据库（CBDB）构建，包括历史人物信息、人际关系图、世系图、五朝任职图
 * :white_check_mark: [一字成名](https://www.congta.com/app/naming)：给宝宝起名的微信小程序，集成国学起名、诗词取名、AI 取名，支持候选集功能和家人投票
 
 #### liuluopeng(乌鲁木齐) - [Github](https://github.com/liuluopeng)
@@ -69,21 +69,21 @@
 * :white_check_mark: [ExcaliRec](https://excalirec.com/)：浏览器白板录屏工具，面向 Excalidraw 风格讲解视频，支持自动聚焦缩放和本地录制，无需安装或注册
 
 #### Orkas - [Github](https://github.com/Orkas-AI/Orkas)
-* :white_check_mark: [Orkas](https://orkas.ai?source=github)：开源、本地优先的 AI 团队桌面 App，通过对话下达目标，由指挥官协调专业 Agent 完成调研、文档、数据分析、编程和视频等复杂任务；支持官方模型，也可接入自己的模型
+* :white_check_mark: [Orkas](https://orkas.ai?source=github)：AI 团队桌面 App，开源、本地优先，通过对话下达目标，由指挥官协调专业 Agent 完成调研、文档、数据分析、编程和视频等复杂任务；支持官方模型，也可接入自己的模型
 
 #### Indie Fox - [Github](https://github.com/open-fox), [Blog](https://mkdollar.com)
-* :white_check_mark: [TanStarter](https://tanstarter.dev)：基于 TanStack Start 框架和 Cloudflare 基建的 AI SaaS 模板
-* :white_check_mark: [MkSaaS](https://mksaas.com)：基于 Next.js 框架和各种前沿技术栈，一个周末就能快速上站的 AI SaaS 模板
-* :white_check_mark: [MkImage](https://mkimage.ai)：内置 1000+ 优质提示词，支持 GPT Image 和 NanoBanana 等模型的 AI 生图工具站
+* :white_check_mark: [TanStarter](https://tanstarter.dev)：AI SaaS 模板，基于 TanStack Start 框架和 Cloudflare 基建
+* :white_check_mark: [MkSaaS](https://mksaas.com)：AI SaaS 模板，基于 Next.js 框架和各种前沿技术栈，一个周末就能快速上站
+* :white_check_mark: [MkImage](https://mkimage.ai)：AI 生图工具站，内置 1000+ 优质提示词，支持 GPT Image 和 NanoBanana 等模型
 
 #### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
 * :white_check_mark: [Agent 小红书工作台](https://github.com/EthanYoQ/agent-xiaohongshu-workbench)：小红书图文内容工作台：可视化界面，用 Codex CLI 完成热点研究、选题推荐、内容拆解、热点仿写、去 AI 味、品牌配图与人工确认发布。能够保持所有内容图片一致性，可完全自动化流程也可人工修改。
 
 #### mnbqwe10(Singapore) - [Github](https://github.com/mnbqwe10)
-* :white_check_mark: [AI Buddy](https://chromewebstore.google.com/detail/eigpaeoigklelmfgnkljhbjjbpohenpn)：Chrome 侧边栏 AI 助手,选中文本或截图直接提问,自定义快捷键和提示词,支持 ChatGPT/Claude/Telegram 等 10 个平台,完全免费开源 - [查看仓库](https://github.com/mnbqwe10/ai_buddy)
+* :white_check_mark: [AI Buddy](https://chromewebstore.google.com/detail/eigpaeoigklelmfgnkljhbjjbpohenpn)：Chrome 侧边栏 AI 助手，选中文本或截图直接提问，自定义快捷键和提示词，支持 ChatGPT / Claude / Telegram 等 10 个平台，完全免费开源 - [查看仓库](https://github.com/mnbqwe10/ai_buddy)
 
 #### Mr.Baoboer(北京) - [Github](https://github.com/MasterBao66)
-* :white_check_mark: [薪跳 PayDance](https://paydance.vercel.app/)：一款轻量且优雅的“实时工资”小软件，可基于用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化 - [更多介绍](https://github.com/MasterBao66/PayDance)
+* :white_check_mark: [薪跳 PayDance](https://paydance.vercel.app/)：“实时工资”小软件，轻量优雅，可基于用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化 - [更多介绍](https://github.com/MasterBao66/PayDance)
 
 #### NiYongsheng - [Github](https://github.com/niyongsheng)
 * :white_check_mark: [Moler](https://github.com/niyongsheng/moler)：NASA-Punk 风格的 Mac 磁盘清理工具，支持重复文件扫描、大文件检测、应用卸载和磁盘概览 - [更多介绍](https://niyongsheng.github.io/moler/)
@@ -93,7 +93,7 @@
 * :white_check_mark: [嘶好冷](http://8.134.62.33:8000/)：每日一则冷笑话，附 Android 客户端 - [更多介绍](https://github.com/luolinila/sihaolen/tree/main)
 
 #### 胡图图不涂涂 - [Github](https://github.com/hukdoesn)
-* :white_check_mark: [Nimclip](https://hukdoesn.github.io/Nimclip/)：免费开源、本地优先的 macOS 剪贴板历史工具，支持文本、链接、代码、图片和富文本历史，所有数据只保存在当前 Mac - [更多介绍](https://github.com/hukdoesn/Nimclip)
+* :white_check_mark: [Nimclip](https://hukdoesn.github.io/Nimclip/)：macOS 剪贴板历史工具，免费开源、本地优先，支持文本、链接、代码、图片和富文本历史，所有数据只保存在当前 Mac - [更多介绍](https://github.com/hukdoesn/Nimclip)
 
 #### zxcHolmes - [Github](https://github.com/zxcHolmes)
 * :white_check_mark: [Google Trends Explorer](https://keywords.aibit.im/zh/)：Google 趋势关键词词根探索器，从 38 个行业 800+ 精选关键词中挑选短词根，自动扩展为真实长尾短语，最多选 8 个词根一键打开
@@ -102,7 +102,7 @@
 * :white_check_mark: [TranAI](https://tranai.app/)：聚合海外主流应用的多开翻译器，支持沉浸式翻译、有道/百度/Google/DeepL/ChatGPT 等翻译通道和 AI 智能回复
 
 #### 东方邯
-* :white_check_mark: [企业智能对账](https://github.com/CQZhangXin/AI-Reconciliation)：基于 AI 大模型的智能财务对账平台，通过"规则引擎 + Embedding 语义粗排 + LLM 多维精排"三层匹配架构实现 75-95% 自动对账率，并深度融合自然语言交互实现智能字段映射、差异根因分析、业务报告自动生成与自定义方案编排，定位为财务团队的 AI 协作者。
+* :white_check_mark: [企业智能对账](https://github.com/CQZhangXin/AI-Reconciliation)：智能财务对账平台，基于 AI 大模型，通过"规则引擎 + Embedding 语义粗排 + LLM 多维精排"三层匹配架构实现 75-95% 自动对账率，并深度融合自然语言交互实现智能字段映射、差异根因分析、业务报告自动生成与自定义方案编排，定位为财务团队的 AI 协作者
 
 #### chenqi92 - [Github](https://github.com/chenqi92/primuse)
 * :white_check_mark: [猿音（Primuse）](https://apps.apple.com/cn/app/%E7%8C%BF%E9%9F%B3/id6761675450)：面向自建音乐库的 Apple 多端音乐播放器，把 NAS、云盘、本地文件和自托管媒体服务器统一到一个资料库，支持无损串流、歌词与元数据刮削，无广告无订阅 - [查看仓库](https://github.com/chenqi92/primuse)
@@ -128,7 +128,7 @@
 * :white_check_mark: [BrowSync](https://browsync.ct106.com)：macOS 跨浏览器书签、标签页与浏览状态实时同步工具
 
 #### SandGrid(北京) - [Github](https://github.com/lcy362), [博客](https://lichuanyang.top/)
-* :white_check_mark: [Agnes 视频生成器](https://video.lichuanyang.top/zh/demo)：基于 agnes 免费视频模型的完全免费 AI 视频生成工作流，无需本地 GPU，可网页体验或下载一键启动 GUI 完整版 - [更多介绍](https://lichuanyang.top/posts/22470/)
+* :white_check_mark: [Agnes 视频生成器](https://video.lichuanyang.top/zh/demo)：AI 视频生成工作流，完全免费，基于 agnes 视频模型，无需本地 GPU，可网页体验或下载一键启动 GUI 完整版 - [更多介绍](https://lichuanyang.top/posts/22470/)
 
 #### carl4carter - [Github](https://github.com/carl4carter)
 * :white_check_mark: [Image to Editable Diagram](https://imagetoeditable.com/)：将图表截图、白板照片转换为可编辑的 Draw.io、Mermaid 或 Excalidraw 文件
@@ -173,7 +173,7 @@
 * :white_check_mark: [小米设备价格天梯 & 代号速查](https://beihai10078.github.io/xiaomi-price-tier/)：Xiaomi / Redmi / POCO 设备价格天梯与代号速查工具，覆盖 245 台设备，支持品牌/系列/类型多维筛选、代号一键复制、中英双语、Material You 风格，纯静态零依赖 - [查看仓库](https://github.com/Beihai10078/xiaomi-price-tier)
 
 #### sunmh207 - [Github](https://github.com/sunmh207)
-* :white_check_mark: [AI Codereview for Gitlab](https://demo.mzfuture.com)：基于大模型(DeepSeek,OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard - [查看仓库](https://github.com/sunmh207/AI-Codereview-Gitlab)
+* :white_check_mark: [AI Codereview for Gitlab](https://demo.mzfuture.com)：GitLab 自动代码审查工具，基于大模型（DeepSeek、OpenAI 等），支持钉钉 / 企业微信 / 飞书推送消息和生成日报，支持 Docker 部署，可视化 Dashboard - [查看仓库](https://github.com/sunmh207/AI-Codereview-Gitlab)
 
 #### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
 * :white_check_mark: [轻语输入 / Whisper Input](https://github.com/EthanYoQ/whisper-input/releases/latest)：Windows 开源 AI 语音输入 App，按全局快捷键说话即可把中文整理成去口头语、带层级结构或正式邮件风格的文字；原文、轻度润色、清晰结构、正式表达四种模式随时切换，按 ASR 与 LLM 实际用量付费，无固定订阅费，可低成本获得类似 Typeless 的格式化输出工作流 - [查看仓库](https://github.com/EthanYoQ/whisper-input)
@@ -190,7 +190,7 @@
 * :white_check_mark: [SeatView](https://seat.genchi.top)：日本及部分海外演唱会场馆的真实座位视角图集，在坐席图上点击标注即可查看该位置的实拍视野，浏览和上传均无需注册 - [查看仓库](https://github.com/Sallyn0225/seatview)
 
 #### jaychouchannel - [Github](https://github.com/jaychouchannel)
-* :white_check_mark: [旅游综合管理平台](https://github.com/jaychouchannel/Tourism_Management_System)：基于 Spring Boot + MyBatis-Plus + Vue.js + MySQL 的全功能旅游管理平台，一站式管理景点、酒店、餐厅、线路、导游、门票及社区互动 - [查看仓库](https://github.com/jaychouchannel/Tourism_Management_System)
+* :white_check_mark: [旅游综合管理平台](https://github.com/jaychouchannel/Tourism_Management_System)：全功能旅游管理平台，基于 Spring Boot + MyBatis-Plus + Vue.js + MySQL，一站式管理景点、酒店、餐厅、线路、导游、门票及社区互动 - [查看仓库](https://github.com/jaychouchannel/Tourism_Management_System)
 
 ### 2026 年 7 月 14 号添加
 

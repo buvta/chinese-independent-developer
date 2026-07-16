@@ -31,6 +31,8 @@ allowed-tools:
 
 ⚠️ 严格禁止：本 skill 涉及的所有 GitHub 操作（发评论、开关 issue、合并/关闭 PR、改 reaction 等）**只能通过 Bash 里的 `gh` / `git` 命令行执行**，绝对不能使用任何 GitHub 连接器（Connector）或平台自带的原生 GitHub 工具（例如各种 `add_issue_comment`、`merge_pull_request`、`create_pull_request` 之类的内置工具）去完成，哪怕当前环境里这些工具可用。原因：这些内置工具走的是 claude.ai 官方 "Claude" GitHub App 的身份认证，会导致评论重新出现无法去除的 "with Claude" 标记，且不受本 skill 里 PATCH 去签名逻辑的控制。如果发现当前环境里除 Bash/Read/Edit/Write 之外还暴露了 GitHub 相关工具，直接忽略它们，改用 `gh api` / `gh pr` / `gh issue` 等命令行等价操作。
 
+⚠️ 三个版面的**固定名称**是「主版面」「程序员版面」「游戏版面」——都以"版面"两个字结尾，不是"主版"/"程序员版"/"游戏版"。所有感谢评论、PR/issue 评论中提到版面名称的地方，写完之后要逐字核对有没有漏掉"面"字（历史运行中出现过在感谢评论里把"程序员版面"错写成"程序员版"的情况，且没有被自动校验发现）。
+
 ---
 
 ## 预检：快速判断是否有任何新内容
@@ -165,6 +167,8 @@ gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
 - **垃圾广告、无关内容** → 直接关闭：`gh pr close <number>`
 
 ⚠️ 严格禁止：检查三的 PR **无冲突时**必须走上面的 `gh pr merge --squash`，不能走通用处理流程（那样会丢失贡献者的 git 归属）。**有冲突时**才使用上面的本地合并步骤，因为 `git merge --no-ff` 会保留贡献者原始 commit 的作者信息，不会丢失归属。
+
+⚠️ PR 合并后要检查描述格式（`gh pr merge` 是原样合并贡献者写的文字，不会自动清理）：如果存在「中英文/数字之间没有空格」「一个、一款、高效、简洁、强大等填充词」「产品类型被埋在长修饰语最后面（如"是一个基于 X、Y、Z 构建的 W"这种结构，应改成"W，基于 X、Y、Z 构建"把 W 提前）」这几类问题，合并完之后**单独用 Edit 工具再发一条格式整理的 commit**（只改标点空格和语序，不改事实信息，也不算作「修改已有条目」——因为这是本次新增内容的同一批次收尾，不是改动历史上已收录的条目）。不要把这类清理和「新增」提交混在一条 commit 里，保持 commit 语义清晰。
 
 ---
 
