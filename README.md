@@ -24,6 +24,9 @@
 
 ## 3. 项目列表
 ### 2026 年 7 月 17 号添加
+#### chuweixuan2-afk - [Github](https://github.com/chuweixuan2-afk)
+* :white_check_mark: [澄镜塔罗](https://chengjingtarot.xyz/)：沉浸式在线塔罗占卜网站，按问题类型进入 Silver、Flower、Cathedral、Aurora 四套完整视觉场域，支持多牌阵 AI 解读、每日单牌「今日一镜」、镜札回望与隐私分享图，无需注册
+
 #### AngKernel - [Github](https://github.com/AngKernel)
 * :white_check_mark: [秒折立方](https://foldcube.cn/)：「秒折立方」是一款免费微信小程序，专治行测/公考图形推理里的立体空间题。平面展开图点一下就折成正方体，相对面、相邻面自动标注；截面切割、三视图联动、立体拼合全都能动手转着看。练的不是死记口诀，是真正把「在脑子里转动图形」的能力练出来。微信搜「秒折立方」即可使用。
 
