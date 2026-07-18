@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 7 月 18 号添加
 
+#### wnma3mz - [Github](https://github.com/wnma3mz)
+* :white_check_mark: [余薪 Yuxin](https://wnma3mz.github.io/yuxin/)：实时计算今日入账、下班和节假日倒计时，无需账号，离线运行且数据只存本地
+
 #### 猫弟(上海) - [Github](https://github.com/maundytime)
 * :white_check_mark: [Await (iOS)](https://apps.apple.com/cn/app/id6755678187)：小组件工坊，可以 DIY 任何小组件 - [更多介绍](https://awaitwidget.com)
 
