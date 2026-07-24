@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 24 号添加
+
+#### KKWANG4444 - [GitHub](https://github.com/KKWANG4444)
+* :white_check_mark: [AI快站模型质量检测](https://docs.aifast.club/model-check/)：面向 OpenAI Compatible 接口的网页检测工具，输入公开 HTTPS 地址和临时 API Key，可检查模型声明、Token、动态题、SSE 与工具调用并生成分项报告；密钥仅用于当次检测，不写入数据库、缓存或日志
+
 ### 2026 年 7 月 23 号添加
 
 #### maowei8888 - [Github](https://github.com/maowei8888)
